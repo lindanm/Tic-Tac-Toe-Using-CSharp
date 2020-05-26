@@ -1,0 +1,56 @@
+D:\01 KULIAH LYFEEE\05. PEMROGRAMAN VISUAL\ProjectTicTacToe\ProjectTicTacToe\obj\Debug\ProjectTicTacToe.csprojAssemblyReference.cache
+D:\01 KULIAH LYFEEE\05. PEMROGRAMAN VISUAL\ProjectTicTacToe\ProjectTicTacToe\obj\Debug\ProjectTicTacToe.Opening.resources
+D:\01 KULIAH LYFEEE\05. PEMROGRAMAN VISUAL\ProjectTicTacToe\ProjectTicTacToe\obj\Debug\ProjectTicTacToe.Properties.Resources.resources
+D:\01 KULIAH LYFEEE\05. PEMROGRAMAN VISUAL\ProjectTicTacToe\ProjectTicTacToe\obj\Debug\ProjectTicTacToe.SplashSc.resources
+D:\01 KULIAH LYFEEE\05. PEMROGRAMAN VISUAL\ProjectTicTacToe\ProjectTicTacToe\obj\Debug\ProjectTicTacToe.csproj.GenerateResource.cache
+D:\01 KULIAH LYFEEE\05. PEMROGRAMAN VISUAL\ProjectTicTacToe\ProjectTicTacToe\obj\Debug\ProjectTicTacToe.csproj.CoreCompileInputs.cache
+D:\01 KULIAH LYFEEE\05. PEMROGRAMAN VISUAL\ProjectTicTacToe\ProjectTicTacToe\bin\Debug\ProjectTicTacToe.exe.config
+D:\01 KULIAH LYFEEE\05. PEMROGRAMAN VISUAL\ProjectTicTacToe\ProjectTicTacToe\bin\Debug\ProjectTicTacToe.exe
+D:\01 KULIAH LYFEEE\05. PEMROGRAMAN VISUAL\ProjectTicTacToe\ProjectTicTacToe\bin\Debug\ProjectTicTacToe.pdb
+D:\01 KULIAH LYFEEE\05. PEMROGRAMAN VISUAL\ProjectTicTacToe\ProjectTicTacToe\obj\Debug\ProjectTicTacToe.exe
+D:\01 KULIAH LYFEEE\05. PEMROGRAMAN VISUAL\ProjectTicTacToe\ProjectTicTacToe\obj\Debug\ProjectTicTacToe.pdb
+D:\01 KULIAH LYFEEE\05. PEMROGRAMAN VISUAL\ProjectTicTacToe\ProjectTicTacToe\obj\Debug\ProjectTicTacToe.Games.resources
+D:\01 KULIAH LYFEEE\05. PEMROGRAMAN VISUAL\ProjectTicTacToe\ProjectTicTacToe\obj\Debug\ProjectTicTacToe.MainMenu.resources
+D:\01 KULIAH LYFEEE\05. PEMROGRAMAN VISUAL\ProjectTicTacToe\ProjectTicTacToe\obj\Debug\ProjectTicTacToe.HowToPlay.resources
+D:\@TI-A 2017-2018\SMT 3 2018\Pemrograman Visual\ProjectTicTacToe\ProjectTicTacToe\bin\Debug\ProjectTicTacToe.exe
+D:\@TI-A 2017-2018\SMT 3 2018\Pemrograman Visual\ProjectTicTacToe\ProjectTicTacToe\bin\Debug\ProjectTicTacToe.pdb
+D:\@TI-A 2017-2018\SMT 3 2018\Pemrograman Visual\ProjectTicTacToe\ProjectTicTacToe\obj\Debug\ProjectTicTacToe.csprojAssemblyReference.cache
+D:\@TI-A 2017-2018\SMT 3 2018\Pemrograman Visual\ProjectTicTacToe\ProjectTicTacToe\obj\Debug\ProjectTicTacToe.About.resources
+D:\@TI-A 2017-2018\SMT 3 2018\Pemrograman Visual\ProjectTicTacToe\ProjectTicTacToe\obj\Debug\ProjectTicTacToe.Games.resources
+D:\@TI-A 2017-2018\SMT 3 2018\Pemrograman Visual\ProjectTicTacToe\ProjectTicTacToe\obj\Debug\ProjectTicTacToe.HowToPlay.resources
+D:\@TI-A 2017-2018\SMT 3 2018\Pemrograman Visual\ProjectTicTacToe\ProjectTicTacToe\obj\Debug\ProjectTicTacToe.MainMenu.resources
+D:\@TI-A 2017-2018\SMT 3 2018\Pemrograman Visual\ProjectTicTacToe\ProjectTicTacToe\obj\Debug\ProjectTicTacToe.Opening.resources
+D:\@TI-A 2017-2018\SMT 3 2018\Pemrograman Visual\ProjectTicTacToe\ProjectTicTacToe\obj\Debug\ProjectTicTacToe.Properties.Resources.resources
+D:\@TI-A 2017-2018\SMT 3 2018\Pemrograman Visual\ProjectTicTacToe\ProjectTicTacToe\obj\Debug\ProjectTicTacToe.SplashSc.resources
+D:\@TI-A 2017-2018\SMT 3 2018\Pemrograman Visual\ProjectTicTacToe\ProjectTicTacToe\obj\Debug\ProjectTicTacToe.csproj.GenerateResource.cache
+D:\@TI-A 2017-2018\SMT 3 2018\Pemrograman Visual\ProjectTicTacToe\ProjectTicTacToe\obj\Debug\ProjectTicTacToe.csproj.CoreCompileInputs.cache
+D:\@TI-A 2017-2018\SMT 3 2018\Pemrograman Visual\ProjectTicTacToe\ProjectTicTacToe\obj\Debug\ProjectTicTacToe.exe
+D:\@TI-A 2017-2018\SMT 3 2018\Pemrograman Visual\ProjectTicTacToe\ProjectTicTacToe\obj\Debug\ProjectTicTacToe.pdb
+D:\01 KULIAH LYFEEE\05. PEMROGRAMAN VISUAL\ProjectTicTacToe2\ProjectTicTacToe\bin\Debug\ProjectTicTacToe.exe
+D:\01 KULIAH LYFEEE\05. PEMROGRAMAN VISUAL\ProjectTicTacToe2\ProjectTicTacToe\bin\Debug\ProjectTicTacToe.pdb
+D:\01 KULIAH LYFEEE\05. PEMROGRAMAN VISUAL\ProjectTicTacToe2\ProjectTicTacToe\obj\Debug\ProjectTicTacToe.csprojAssemblyReference.cache
+D:\01 KULIAH LYFEEE\05. PEMROGRAMAN VISUAL\ProjectTicTacToe2\ProjectTicTacToe\obj\Debug\ProjectTicTacToe.About.resources
+D:\01 KULIAH LYFEEE\05. PEMROGRAMAN VISUAL\ProjectTicTacToe2\ProjectTicTacToe\obj\Debug\ProjectTicTacToe.Games.resources
+D:\01 KULIAH LYFEEE\05. PEMROGRAMAN VISUAL\ProjectTicTacToe2\ProjectTicTacToe\obj\Debug\ProjectTicTacToe.HowToPlay.resources
+D:\01 KULIAH LYFEEE\05. PEMROGRAMAN VISUAL\ProjectTicTacToe2\ProjectTicTacToe\obj\Debug\ProjectTicTacToe.MainMenu.resources
+D:\01 KULIAH LYFEEE\05. PEMROGRAMAN VISUAL\ProjectTicTacToe2\ProjectTicTacToe\obj\Debug\ProjectTicTacToe.Opening.resources
+D:\01 KULIAH LYFEEE\05. PEMROGRAMAN VISUAL\ProjectTicTacToe2\ProjectTicTacToe\obj\Debug\ProjectTicTacToe.Properties.Resources.resources
+D:\01 KULIAH LYFEEE\05. PEMROGRAMAN VISUAL\ProjectTicTacToe2\ProjectTicTacToe\obj\Debug\ProjectTicTacToe.SplashSc.resources
+D:\01 KULIAH LYFEEE\05. PEMROGRAMAN VISUAL\ProjectTicTacToe2\ProjectTicTacToe\obj\Debug\ProjectTicTacToe.csproj.GenerateResource.cache
+D:\01 KULIAH LYFEEE\05. PEMROGRAMAN VISUAL\ProjectTicTacToe2\ProjectTicTacToe\obj\Debug\ProjectTicTacToe.csproj.CoreCompileInputs.cache
+D:\01 KULIAH LYFEEE\05. PEMROGRAMAN VISUAL\ProjectTicTacToe2\ProjectTicTacToe\obj\Debug\ProjectTicTacToe.exe
+D:\01 KULIAH LYFEEE\05. PEMROGRAMAN VISUAL\ProjectTicTacToe2\ProjectTicTacToe\obj\Debug\ProjectTicTacToe.pdb
+D:\Kuliah\Pemrograman Visual\SIAPLAUNCHING\ProjectTicTacToe\bin\Debug\ProjectTicTacToe.exe
+D:\Kuliah\Pemrograman Visual\SIAPLAUNCHING\ProjectTicTacToe\bin\Debug\ProjectTicTacToe.pdb
+D:\Kuliah\Pemrograman Visual\SIAPLAUNCHING\ProjectTicTacToe\obj\Debug\ProjectTicTacToe.csprojAssemblyReference.cache
+D:\Kuliah\Pemrograman Visual\SIAPLAUNCHING\ProjectTicTacToe\obj\Debug\ProjectTicTacToe.About.resources
+D:\Kuliah\Pemrograman Visual\SIAPLAUNCHING\ProjectTicTacToe\obj\Debug\ProjectTicTacToe.Games.resources
+D:\Kuliah\Pemrograman Visual\SIAPLAUNCHING\ProjectTicTacToe\obj\Debug\ProjectTicTacToe.HowToPlay.resources
+D:\Kuliah\Pemrograman Visual\SIAPLAUNCHING\ProjectTicTacToe\obj\Debug\ProjectTicTacToe.MainMenu.resources
+D:\Kuliah\Pemrograman Visual\SIAPLAUNCHING\ProjectTicTacToe\obj\Debug\ProjectTicTacToe.Opening.resources
+D:\Kuliah\Pemrograman Visual\SIAPLAUNCHING\ProjectTicTacToe\obj\Debug\ProjectTicTacToe.Properties.Resources.resources
+D:\Kuliah\Pemrograman Visual\SIAPLAUNCHING\ProjectTicTacToe\obj\Debug\ProjectTicTacToe.SplashSc.resources
+D:\Kuliah\Pemrograman Visual\SIAPLAUNCHING\ProjectTicTacToe\obj\Debug\ProjectTicTacToe.csproj.GenerateResource.cache
+D:\Kuliah\Pemrograman Visual\SIAPLAUNCHING\ProjectTicTacToe\obj\Debug\ProjectTicTacToe.csproj.CoreCompileInputs.cache
+D:\Kuliah\Pemrograman Visual\SIAPLAUNCHING\ProjectTicTacToe\obj\Debug\ProjectTicTacToe.exe
+D:\Kuliah\Pemrograman Visual\SIAPLAUNCHING\ProjectTicTacToe\obj\Debug\ProjectTicTacToe.pdb
